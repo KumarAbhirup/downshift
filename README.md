@@ -1462,3 +1462,6 @@ MIT
 [combobox-readme]:
   https://github.com/downshift-js/downshift/tree/master/src/hooks/useCombobox
 [bundle-phobia-link]: https://bundlephobia.com/result?p=downshift@3.4.8
+
+| **Like us a lot?** Help others know why you like us! **Review this package on [pkgreview.dev](https://pkgreview.dev/npm/downshift)** | ➡   | [![Review us on pkgreview.dev](https://i.ibb.co/McjVMfb/pkgreview-dev.jpg)](https://pkgreview.dev/npm/downshift) |
+| ----------------------------------------------------------------------------------------------------------------------------------------- | --- | --------------------------------------------------------------------------------------------------------------------- |
